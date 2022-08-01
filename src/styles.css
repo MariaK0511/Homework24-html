@@ -1,0 +1,51 @@
+.my-button {
+    background-color: lightgray;
+    border-width: 5px;
+    border-color: plum;
+    padding: 20px;
+    margin-top: 8px;
+    margin-left: 50px;
+    border-radius: 50px;
+
+}
+
+.my-button:hover {
+    background-color: gray;
+}
+
+.my-image {
+    padding: 6px;
+    background-color: olivedrab;
+    border-radius: 150px;
+    width: 150px;
+    height: 150px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.my-field {
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 150px;
+    height: 70px;
+    background-color: darkseagreen;
+    padding: 15px;
+}
+
+.div-yellow {
+    height: 70px;
+    width: 60px;
+    background-color: yellow;
+    position: absolute;
+}
+
+.div-violet {
+    height: 70px;
+    width: 60px;
+    background-color: violet;
+    margin-left: 90px;
+    position: absolute;
+}
+
+
+
