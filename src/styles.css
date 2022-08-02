@@ -1,5 +1,5 @@
 .my-button {
-    background-color: lightgray;
+    background-color:yellow;
     border-width: 5px;
     border-color: plum;
     padding: 20px;
@@ -10,7 +10,7 @@
 }
 
 .my-button:hover {
-    background-color: gray;
+    background-color: bisque;
 }
 
 .my-image {
